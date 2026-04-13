@@ -1,0 +1,1 @@
+export const NOT_FOUND_TOP_PAGE_ERROR='Сторінку з таким id не знайдено';
