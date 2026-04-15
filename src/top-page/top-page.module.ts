@@ -16,6 +16,7 @@ import { TopPageModel } from './top-page.model';
           }
         ])
       ],
-  providers: [TopPageService]
+  providers: [TopPageService],
+  exports: [TopPageService]
 })
 export class TopPageModule {}
